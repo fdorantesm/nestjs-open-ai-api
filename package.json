@@ -1,5 +1,5 @@
 {
-  "name": "nestjs-open-ai",
+  "name": "nestjs-open-ai-api",
   "version": "0.0.1",
   "main": "dist/index.js",
   "description": "",
